@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="floresansPrefix">
+    <file>nanaFluor_pageLogo.png</file>
+    <file>whitePressed.png</file>
+    <file>whiteUnpressed.png</file>
+    <file>bluePressed.png</file>
+    <file>blueUnPressed.png</file>
+    <file>closeButtonIcon.png</file>
+    <file>disableBlueImage.png</file>
+    <file>downBtn.png</file>
+    <file>finePressed.png</file>
+    <file>fineUnPressed.png</file>
+    <file>floresans_startup_image.png</file>
+    <file>greenPressed.png</file>
+    <file>greenUnPressed.png</file>
+    <file>leftBtn.png</file>
+    <file>max_window.png</file>
+    <file>miniFluor_pageLogo.png</file>
+    <file>minimizeButtonIcon.png</file>
+    <file>preview_button.png</file>
+    <file>preview_button_selected.png</file>
+    <file>redPressed.png</file>
+    <file>redUnPressed.png</file>
+    <file>result_button.png</file>
+    <file>result_button_selected.png</file>
+    <file>rightBtn.png</file>
+    <file>stage_button.png</file>
+    <file>stage_button_selected.png</file>
+    <file>timelapse_button.png</file>
+    <file>timelapse_button_selected.png</file>
+    <file>upBtn.png</file>
+    <file>uv_button_pressed.png</file>
+    <file>uv_button_unpressed.png</file>
+    <file>Zstack_button.png</file>
+    <file>Zstack_button_selected.png</file>
+  </qresource>
+</RCC>
